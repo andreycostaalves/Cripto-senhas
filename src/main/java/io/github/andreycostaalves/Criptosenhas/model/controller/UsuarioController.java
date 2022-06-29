@@ -1,4 +1,4 @@
-package io.github.andreycostaalves.Criptosenhas.controller;
+package io.github.andreycostaalves.Criptosenhas.model.controller;
 
 import io.github.andreycostaalves.Criptosenhas.model.UsuarioModel;
 import io.github.andreycostaalves.Criptosenhas.repository.UsuarioRepository;
